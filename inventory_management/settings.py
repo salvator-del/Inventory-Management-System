@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-bwtup#&q-&_%+cqd)pag%hgej!#6iaf&i-fvu3q%d@xrjoc$43
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
