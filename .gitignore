@@ -1,0 +1,4 @@
+deploy/
+inventory/__pycache__/
+inventory/migrations/__pycache
+inventory_management/__pycache
